@@ -131,7 +131,7 @@ img {
 
 @media screen and (min-width: 1140px){
     .container{
-        max-width: 1140px;
+        max-width: 1400px;
     }
     header, main
 }
@@ -173,11 +173,12 @@ img {
         display: block;
     }
     .col{
-        margin-bottom: 80px;
+        padding-bottom: 80px;
     }
     .why-us{
         background-color: #222222;
         padding-top: 60px;
+        margin-bottom: 0px;
     }
     .steps{
         margin-bottom: 0px;
