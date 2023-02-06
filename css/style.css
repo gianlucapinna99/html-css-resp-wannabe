@@ -170,7 +170,7 @@ img {
         width: 100%;
     }
     .row {
-        display: block;
+        flex-wrap: wrap;
     }
     .col{
         padding-bottom: 80px;
